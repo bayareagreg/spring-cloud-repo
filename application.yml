@@ -1,5 +1,5 @@
 spring:
   application:
-    name: spring-hello-world
+    name: spring-hello-world-2
   profiles:
     active: default
