@@ -1,5 +1,7 @@
-spring:
-  application:
-    name: spring-hello-world-2
-  profiles:
-    active: default
+#spring:
+#  application:
+#    name: spring-hello-world-2
+#  profiles:
+#    active: default
+greeting:
+  template: Hello there %s!
