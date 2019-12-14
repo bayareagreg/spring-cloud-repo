@@ -3,5 +3,7 @@
 #    name: spring-hello-world-2
 #  profiles:
 #    active: default
-greeting:
-  template: Hello there %s!
+#greeting:
+#  template: Hello there %s!
+application:
+    message: Configured by Azure Spring Cloud
